@@ -1,3 +1,16 @@
+@font-face {
+  font-family: "Open Sauce Sans";
+  src: url(./asset/fonts/OpenSauceSans-Medium.ttf);
+}
+
+h1,h2,h3,h4{
+  font:"Open Sauce Sans"
+}
+
+body{
+  padding:10,
+}
+
 .App {
   text-align: center;
 }
